@@ -1,0 +1,10 @@
+-----------
+
+Tests:
+
++ Plain-old block chain download:
+  version handshake, but with n_blocks=N
+  expect: getblocks
+  send: inv
+  expect: getdata
+  send: 

@@ -1,0 +1,9 @@
+Code for testing bitcoin implementations by communicating with them
+via the bitcoin network protocol.
+
+The intent is to create test suites for both regression testing the original
+bitcoin implementation and for testing new implementations, with an
+emphasis on tests of edge cases that could cause inadvertent block chain
+splits.
+
+UNDER CONSTRUCTION...  expect misleading comments and half-baked code.
